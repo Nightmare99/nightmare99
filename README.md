@@ -37,6 +37,8 @@
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" title="Java" width=100>
     <img src="https://banner2.cleanpng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg" title="MongoDB" width=100>
 </p>
+Check out my pins. They're some of my best works.
+Open for collabs. Hit me up if you've got an idea 🤘
 <!--
 **Nightmare99/nightmare99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
