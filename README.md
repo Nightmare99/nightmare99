@@ -1,7 +1,7 @@
 ## Hello world 👋
 <p align="center">
   <img src="https://thumbs.gfycat.com/PepperyShallowKentrosaurus.webp" width=100>
-  <img src="https://raw.githubusercontent.com/Nightmare99/nightmare99/master/img/github.gif" width=100>
+  <img src="https://thumbs.gfycat.com/FeminineRemarkableChuckwalla-max-1mb.gif" width=100>
   <img src="https://thumbs.gfycat.com/PepperyShallowKentrosaurus.webp" width=100>
   <br><br>
   <samp>
