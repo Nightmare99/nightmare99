@@ -6,7 +6,7 @@
     Welcome to my github. Here are a few links:
   </samp>
   <br><br>
-  <a href="nightmare99.github.io">
+  <a href="https://nightmare99.github.io">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/safari.svg" width=50>
   </a>
   <a href="https://www.linkedin.com/in/vishal-kumar-91236a154/">
