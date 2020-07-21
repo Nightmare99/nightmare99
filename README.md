@@ -24,12 +24,14 @@
 </p>
 
 ## I work on:
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=100>
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" width=100>
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width=100>
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width=100>
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg" width=100>
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" width=100>
+<p>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=100>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" width=100>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width=100>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width=100>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg" width=100>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" width=100>
+</p>
 <!--
 **Nightmare99/nightmare99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
