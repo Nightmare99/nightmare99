@@ -1,30 +1,30 @@
 ## Hello world 👋
 <p align="center">
+  <img src="https://thumbs.gfycat.com/PepperyShallowKentrosaurus.webp" width=100>
   <img src="https://raw.githubusercontent.com/Nightmare99/nightmare99/master/img/github.gif" width=100>
+  <img src="https://thumbs.gfycat.com/PepperyShallowKentrosaurus.webp" width=100>
   <br><br>
   <samp>
     Welcome to my github. Here are a few links:
   </samp>
-  <br><br>
+  <br>
   <a href="https://nightmare99.github.io">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/safari.svg" width=50>
+    nightmare99.github.io
+  </a>
+  <br>
+  <a href="https://www.facebook.com/ekat99/">
+    <img src="https://hackernoon.com/photos/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-859b2i4p" width=50>
   </a>
   <a href="https://www.linkedin.com/in/vishal-kumar-91236a154/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width=50>
+    <img src="https://hackernoon.com/photos/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-cjw12i45" width=50>
   </a>
-  <a href="https://www.facebook.com/ekat99/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" width=50>
-  </a>
-  <a href="https://soundcloud.com/m_n_q">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/soundcloud.svg" width=50>
-  </a>
-  <a href="mailto:vishal.s.kumar99@gmail.com">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width=50>
+  <a href="https://www.youtube.com/channel/UCiRztkBiAFZKl85UB8AObzw?view_as=subscriber">
+    <img src="https://hackernoon.com/photos/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-pi1q2icy" width=50>
   </a>
 </p>
 
 ## I work on:
-<p>
+<p align="center">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=100>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" width=100>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width=100>
