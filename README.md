@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## I usually work with:
+## I use:
 <p align="center">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" title="Javascript" width=100>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" title="VueJS" width=100>
@@ -35,11 +35,15 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-svg-vector.svg" title="Django" width=70>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg" title="Android" width=100>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" title="Java" width=100>
-    <img src="https://banner2.cleanpng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg" title="MongoDB" width=100>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" title="Docker" width=100>
+    <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" title="MongoDB" width=100>
 </p>
 Check out my pins. They're some of my best works.
 
 Open for collabs. Hit me up if you've got an idea 🤘
+<p align="center">
+  <img src="img/github.gif" title="MongoDB" width=100>
+</p>
 <!--
 **Nightmare99/nightmare99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
