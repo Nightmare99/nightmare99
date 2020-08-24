@@ -42,7 +42,7 @@ Check out my pins. They're some of my best works.
 
 Open for collabs. Hit me up if you've got an idea 🤘
 <p align="center">
-  <img src="./img/github.gif" width=100>
+  <img src="https://github.com/Nightmare99/nightmare99/blob/master/img/github.gif?raw=true" width=100>
 </p>
 <!--
 **Nightmare99/nightmare99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
