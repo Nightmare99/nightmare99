@@ -1,4 +1,5 @@
 ## Hello world 👋
+![](https://komarev.com/ghpvc/?username=Nightmare99) 
 <p align="center">
   <img src="https://thumbs.gfycat.com/PepperyShallowKentrosaurus.webp" width=100>
   <img src="https://thumbs.gfycat.com/FeminineRemarkableChuckwalla-max-1mb.gif" width=100>
@@ -36,11 +37,13 @@
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg" title="Android" width=100>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" title="Java" width=100>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" title="Docker" width=100>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/384px-Electron_Software_Framework_Logo.svg.png" title="Electron" width=100>
     <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" title="MongoDB" width=100>
 </p>
 Check out my pins. They're some of my best works.
 
 Open for collabs. Hit me up if you've got an idea 🤘
+
 <p align="center">
   <img src="https://github.com/Nightmare99/nightmare99/blob/master/img/github.gif?raw=true" width=100>
 </p>
