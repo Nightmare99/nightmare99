@@ -24,21 +24,25 @@
   </a>
 </p>
 
-## I use:
+- 🎓 Currently I'm learning: Golang
+- 🔭 I’m currently working on: [BreVITy](https://www.youtube.com/channel/UCOCgnRFRs7PBLFlBj8EW2lg)
+- ⚡ Fun fact: Not a fan of DSA
+
+## I work with:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" title="Javascript" width=100>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" title="VueJS" width=100>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" title="Python" width=100>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" title="HTML5" width=100>
-    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS3" width=100>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="Bootstrap" width=100>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" title="React Native" width=100>
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-svg-vector.svg" title="Django" width=70>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg" title="Android" width=100>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" title="Java" width=100>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" title="Docker" width=100>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/384px-Electron_Software_Framework_Logo.svg.png" title="Electron" width=100>
-    <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" title="MongoDB" width=100>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" title="Javascript" width=50>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" title="VueJS" width=50>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" title="Python" width=50>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" title="HTML5" width=50>
+    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS3" width=50>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="Bootstrap" width=50>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" title="React" width=50>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-svg-vector.svg" title="Django" width=40>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg" title="Android" width=50>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" title="Java" width=50>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" title="Docker" width=50>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/384px-Electron_Software_Framework_Logo.svg.png" title="Electron" width=50>
+    <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" title="MongoDB" width=50>
 </p>
 Check out my pins. They're some of my best works.
 
