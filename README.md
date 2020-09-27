@@ -48,6 +48,8 @@ Check out my pins. They're some of my best works.
 
 Open for collabs. Hit me up if you've got an idea 🤘
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightmare99&layout=compact)](https://github.com/Nightmare99)
+
 <p align="center">
   <img src="https://github.com/Nightmare99/nightmare99/blob/master/img/github.gif?raw=true" width=100>
 </p>
