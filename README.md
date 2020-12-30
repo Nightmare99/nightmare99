@@ -31,7 +31,9 @@
 ## I work with:
 <p align="center">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" title="Javascript" width=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" title="Typescript" width=50>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" title="VueJS" width=50>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angular.svg" title="Angular" width=50>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" title="Python" width=50>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" title="HTML5" width=50>
     <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS3" width=50>
