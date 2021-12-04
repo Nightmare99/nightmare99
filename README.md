@@ -24,8 +24,8 @@
   </a>
 </p>
 
-- 🎓 Currently I'm learning: Golang
-- 🔭 I’m currently working on: [BreVITy](https://www.youtube.com/channel/UCOCgnRFRs7PBLFlBj8EW2lg)
+- 🎓 Currently I'm learning: Electron
+- 🔭 I’m currently working on: [LANMine](https://github.com/Nightmare99/LANMine)
 - ⚡ Fun fact: Not a fan of DSA
 
 ## I work with:
