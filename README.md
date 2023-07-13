@@ -6,37 +6,29 @@
   <img src="https://thumbs.gfycat.com/PepperyShallowKentrosaurus.webp" width=100>
   <br><br>
   <strong>
-    Welcome to my github. Here are a few links:
+    Welcome to my github. Here's my website:
   </strong>
   <br>
   <a href="https://nightmare99.github.io">
     nightmare99.github.io
   </a>
   <br>
-  <a href="https://www.facebook.com/ekat99/">
-    <img src="https://hackernoon.com/photos/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-859b2i4p" width=50>
-  </a>
-  <a href="https://www.linkedin.com/in/vishal-kumar-91236a154/">
-    <img src="https://hackernoon.com/photos/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-cjw12i45" width=50>
-  </a>
-  <a href="https://www.youtube.com/channel/UCiRztkBiAFZKl85UB8AObzw?view_as=subscriber">
-    <img src="https://hackernoon.com/photos/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-pi1q2icy" width=50>
-  </a>
 </p>
 
-- 🎓 Currently I'm learning: Electron
-- 🔭 I’m currently working on: [LANMine](https://github.com/Nightmare99/LANMine)
+- 🎓 Currently, I'm learning: Electron
+- 🔭 I’m currently working on: [pcat](https://github.com/Nightmare99/pcat-server)
 - ⚡ Fun fact: Not a fan of DSA
+- 😄 Pronouns: He/him
 
 ## I work with:
 <p align="center">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" title="Javascript" width=50>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2000px-Typescript_logo_2020.svg.png" title="Typescript" width=50>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2000px-Typescript_logo_2020.svg.png" title="Typescript" width=50>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" title="VueJS" width=50>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angular.svg" title="Angular" width=50>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angular.svg" title="Angular" width=50>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" title="Python" width=50>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" title="HTML5" width=50>
-    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" title="CSS3" width=50>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS3" width=50>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="Bootstrap" width=50>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" title="React" width=50>
     <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-svg-vector.svg" title="Django" width=40>
@@ -45,6 +37,7 @@
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" title="Docker" width=50>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/384px-Electron_Software_Framework_Logo.svg.png" title="Electron" width=50>
     <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" title="MongoDB" width=50>
+    <img src="https://www.sencha.com/wp-content/uploads/2018/11/icon-product-ExtJS.png" title="ExtJS" width=50>
 </p>
 Check out my pins. They're some of my best works.
 
