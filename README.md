@@ -1,64 +1,139 @@
-## Hello world 👋
-![](https://komarev.com/ghpvc/?username=Nightmare99) 
-<p align="center">
-  <img src="https://thumbs.gfycat.com/PepperyShallowKentrosaurus.webp" width=100>
-  <img src="https://thumbs.gfycat.com/FeminineRemarkableChuckwalla-max-1mb.gif" width=100>
-  <img src="https://thumbs.gfycat.com/PepperyShallowKentrosaurus.webp" width=100>
-  <br><br>
-  <strong>
-    Welcome to my github. Here's my website:
-  </strong>
-  <br>
-  <a href="https://nightmare99.github.io">
-    nightmare99.github.io
-  </a>
-  <br>
-</p>
+<div align="center">
 
-- 🎓 Currently, I'm learning: Electron
-- 🔭 I’m currently working on: [pcat](https://github.com/Nightmare99/pcat-server)
-- ⚡ Fun fact: Not a fan of DSA
-- 😄 Pronouns: He/him
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=230&section=header&text=Nightmare99&fontSize=70&fontColor=c9d1d9&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Builder%20of%20Things&descSize=18&descAlignY=55&animation=fadeIn)
 
-## I work with:
-<p align="center">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" title="Javascript" width=50>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2000px-Typescript_logo_2020.svg.png" title="Typescript" width=50>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" title="VueJS" width=50>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angular.svg" title="Angular" width=50>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" title="Python" width=50>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" title="HTML5" width=50>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS3" width=50>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="Bootstrap" width=50>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" title="React" width=50>
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-svg-vector.svg" title="Django" width=40>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg" title="Android" width=50>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" title="Java" width=50>
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" title="Docker" width=50>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/384px-Electron_Software_Framework_Logo.svg.png" title="Electron" width=50>
-    <img src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" title="MongoDB" width=50>
-    <img src="https://www.sencha.com/wp-content/uploads/2018/11/icon-product-ExtJS.png" title="ExtJS" width=50>
-</p>
-Check out my pins. They're some of my best works.
+![Profile Views](https://komarev.com/ghpvc/?username=Nightmare99&style=for-the-badge&color=6e40c9)
 
-Open for collabs. Hit me up if you've got an idea 🤘
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="80">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="80">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="80">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightmare99)](https://github.com/Nightmare99)
+<br>
 
-<p align="center">
-  <img src="https://github.com/Nightmare99/nightmare99/blob/master/img/github.gif?raw=true" width=100>
-</p>
-<!--
-**Nightmare99/nightmare99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 [nightmare99.github.io](https://nightmare99.github.io)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```yaml
+name: Nightmare99
+located_in: The Terminal
+currently_working_on: Clanker 🤖
+currently_learning: Copilot SDK 🧠
+currently_playing: Pokemon Emerald
+fun_fact: "Not a fan of Leetcoding"
+hot_take: "FAANG has lost its soul"
+pronouns: he/him
+open_to: Collabs & cool ideas 🤘
+```
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+<br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+<br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+<br><sub><b>CSS3</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+<br><sub><b>Vue.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
+<br><sub><b>Angular</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+<br><sub><b>Django</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="48" height="48" alt="Electron" />
+<br><sub><b>Electron</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+<br><sub><b>Bootstrap</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+<br><sub><b>Android</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96" colspan="2">
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightmare99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" width="41%" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/Platane/snk@output/github-contribution-grid-snake-dark.svg" width="41%">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤘 Open for collabs — hit me up if you've got an idea!
+
+Check out my pinned repos below — they're some of my best work. 👇
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer)
+
+</div>
