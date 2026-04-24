@@ -102,7 +102,17 @@ open_to: Collabs & cool ideas 🤘
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
 <br><sub><b>MongoDB</b></sub>
 </td>
-<td align="center" width="96" colspan="2">
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/langchain/ffffff" width="48" height="48" alt="LangChain" />
+<br><sub><b>LangChain</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/pydantic/ffffff" width="48" height="48" alt="PydanticAI" />
+<br><sub><b>PydanticAI</b></sub>
 </td>
 </tr>
 </table>
